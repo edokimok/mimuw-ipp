@@ -1,0 +1,20 @@
+/**
+@mainpage A documentation of the task "Phones"
+
+### The assignment
+
+Note: the actual assignment can be found in [Moodle](https://moodle.mimuw.edu.pl).
+
+### Program description
+
+This year's assignment is to implement operations on phone numbers.
+
+TODO \n
+[done] implement the phone_forward.c file \n
+[done] write the documentation for phone_forward.c \n
+[done] implement stack module \n
+[done] write a documentation for stack.h and stack.c \n
+[done] implement phfwdReverse function in phone_forward.c \n
+[done] change phfwdReverse description in phone_forward.h \n
+[done] add phwfdGetReverse function to phone_forward.h and phone_forward.c
+*/
